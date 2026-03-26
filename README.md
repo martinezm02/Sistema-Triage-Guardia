@@ -73,7 +73,7 @@ Para generar el cierre del día, el sistema procesa la base de datos y genera do
 | Archivo | Función |
 |:---:|:---:|
 | `reporte_diario.xlsx` | Resumen tabular para análisis administrativo.|
-| `reporte_diario.pdf` | Documento formal con encabezado y firmas.|
+| `reporte_diario.pdf` | Reporte formal de ingresos del día|
 
 
 # 🔒 Seguridad y Privacidad
