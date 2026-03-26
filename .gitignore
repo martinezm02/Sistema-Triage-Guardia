@@ -209,3 +209,6 @@ __marimo__/
 # Reports
 *.xlsx
 *.pdf
+
+#Database
+*.db
